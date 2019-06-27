@@ -18,8 +18,6 @@ features = list(pdata.columns.values)
 features.remove('result')
 print(features)
 X = pdata[features]
-x_array = np.array(pdata['fuzzy_res'])
-normalized_X = preprocessing.normalize([x_array])
 y = pdata['result']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=0)
