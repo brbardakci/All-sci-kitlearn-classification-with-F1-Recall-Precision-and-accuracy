@@ -6,6 +6,7 @@ Using sci-kit libraries to classification read csv data
 <p>About Code</p>
 
 <ul>
+  <li><p><b>1.Requirements</b></p></li>
 <li>
 <p>Pandas</p>
   <blockquote>
@@ -41,4 +42,8 @@ Using sci-kit libraries to classification read csv data
 </code></pre>
 </blockquote>
   </li>
+  <li><p><b>2.README</b></p>
+      <p> this code classification data using scikitlearn libraries and keras library. You can compare all models in one code.</p>
+  </li>
+  
 </ul>
