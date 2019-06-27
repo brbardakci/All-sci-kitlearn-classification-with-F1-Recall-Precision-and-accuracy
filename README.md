@@ -1,11 +1,9 @@
 # All sci-kitlearn-classification-with-F1-Recall-Precision-and-accuracy
 Using sci-kit libraries to classification read csv data
-
-<ol>
-<li>
-<p>Requirement</p>
-</li>
-
+<h2>Requirements</h2>
+<p>Which is you need to download before use code</p>
+<h2>README</h2>
+<p>About Code</p>
 
 <ul>
 <li>
@@ -44,4 +42,3 @@ Using sci-kit libraries to classification read csv data
 </blockquote>
   </li>
 </ul>
-</ol>
