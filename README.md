@@ -29,7 +29,7 @@ Using sci-kit libraries to classification read csv data
 </code></pre>
 </blockquote>
   </li>
-<li>1
+<li>
   scikit-learn
     <blockquote>
 <pre><code>  pip install scikit-learn
